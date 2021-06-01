@@ -1,8 +1,12 @@
-# VUT FIT - 1. semestr
+# VUT FIT - 1. ročník
 
+<details>
+<summary>Umístění na základě prospěchu</summary>
+
+>>>
 <div align="center">
     <p>
-    <img src="/ReadMe images/1.sem.JPG">
+    <img src="/ReadMe images/Výsledky.JPG">
     <br>
     </p>
 </div>
