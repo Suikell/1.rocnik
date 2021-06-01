@@ -1,0 +1,94 @@
+IVS - Projekt 2 --- Plán
+_______________________________________________________
+
+Členovia tímu: 
+ ----- Iveta Snášelová ------- xsnase07 --- team leader
+ ----- Karolína Radačovská --- xradac00
+ ----- Pavol Cubinek --------- xcubin00
+
+Zvolený programovací jazyk:
+ ----- C#
+Zvolené prostredie:
+ ----- Windows
+Systém pre správu verzií a hosting:
+ ----- Gitlab
+
+Komunikačné kanály:
+ ----- Messenger
+ ----- Discord
+ ----- Stretnutia
+
+Termíny:
+ ----- 18.3. ----- Gitlab
+
+ ----- 25.3. ----- Grafický návrh
+	     ----- Test-Driven-Development testy
+
+ -----  1.4. ----- Matematická knižnica 
+	     ----- Priorita operátorov
+
+ -----  9.4. ----- Profiling 
+	     ----- Ovládanie GUI
+
+ ----- 15.4. ----- Makefile 
+	     ----- Inštalátor
+
+ ----- 20.4. ----- Dokumentácia 
+	     ----- Nápoveda 
+	     ----- Manuál 
+	     ----- Mockup 
+	     ----- Readme
+
+ ----- 25.4. ----- Ladenie detailov 
+	     ----- Revízia kódu
+
+Rozdelenie úloh:
+ ----- Gitlab - xradac00
+: zaistenie prístupu tímu a cvičiacich k repozitáru
+: správa a kontrola obsahu repozitáru
+
+ ----- Grafický návrh - xradac00
+: vytvorenie grafického návrhu a vlastností kalkulačky
+
+ ----- TDD testy - xsnase07
+: vytvorenie test driven development testov na základe dohodnutých špecifikácií
+
+ ----- Matematická knižnica - xcubin00     	
+: vytvorenie základných a všeobecných funkcií pre výpočty kalkulačky
+: +,-,*,/,faktoriál, mocnina, odmocnina
+: zvolená ľubovoľná funkcia: logaritmus
+
+ ----- Priorita operátorov - xsnase07
+: implementácia priority operátorov zo vstupných zadaných dát
+
+ ----- Profiling - xradac00
+: implementácia výpočtu výberovej smerodajnej odchýlky
+: vytvorenie časovej krivky výpočtov na grafe
+
+ ----- Ovládanie GUI - xradac00, xsnase07
+: vytvorenie grafického rozhrania podľa stanoveného návrhu  
+: implementácia jednotlivých tlačidiel kalkulačky 
+: implementácia načítania vstupných dát
+
+ ----- Makefile - xcubin00
+: vytvorenie súboru pre kompliláciu jednotlivých častí projektu
+
+ ----- Inštalátor/Odinštalátor - xcubin00
+: vytvorenie programu pre inštaláciu a odinštaláciu projektu
+
+ ----- Dokumentácia - xradac00
+: spísanie dokumentácie
+: vygenerovanie programovej dokumentácie Doxygenom
+
+ ----- Nápoveda - xcubin00
+: vytvorenie nápovedy pre jednotlivé komponenty kalkulačky
+
+ ----- Manuál - xradac00
+: vytvorenie manuálu k ovládaniu a používaniu kalkulačky
+: vysvetlenie fungovania jednotlivých funkcií
+
+ ----- Mockup - xsnase07
+: vytvorenie update verzie kalkulačky s príslušnými funkciami
+
+
+
