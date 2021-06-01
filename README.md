@@ -1,4 +1,12 @@
-# VUT FIT 
-# 1. ročník
+# VUT FIT - 1. ročník
 
-![Výsledky](/ReadMe images/Výsledky.JPG)
+<details>
+<summary>Umístění na základě prospěchu</summary>
+
+>>>
+<div align="center">
+    <p>
+    <img src="/ReadMe images/Výsledky.JPG">
+    <br>
+    </p>
+</div>
