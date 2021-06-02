@@ -6,7 +6,7 @@ Ubuntu 20.04
 ## Hodnocení
 - 14/15
 - Wordcount při použití velkého souboru trvá příliš dlouho, např. pro /usr/share/dict/words.
-  (Lze spravit ve [wordcount](https://gitlab.com/Suikell/IJC_vut_fit/-/blob/master/IJC_project_2/wordcount.c) zvolením větší velikosti makra SIZE.)
+  (Lze spravit ve [wordcount](https://github.com/Suikell/1.rocnik/blob/main/2.%20semestr/IJC/2.%20projekt/wordcount.c) zvolením větší velikosti makra SIZE.)
 
 ## Popis projektu
 - Vlastní implementace příkazu [tail](https://man7.org/linux/man-pages/man1/tail.1.html).
