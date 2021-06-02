@@ -67,9 +67,12 @@ Reálny plán:
  ----- 29.4. ----- Makefile
 
  ----- Ladenie detailov a revízia kódu prebiehala priebežne medzi jednotlivými časťami projektu.
+ 
+ 
 
-Zmeny v rozdelení úloh:
- ----- Matematická knižnica - xsnase07
- ----- Priorita operátorov - xcubin00
- ----- Nápoveda - xsnase07
+xcubin00: Makefile, inštalátor + odinčtalátor, priorita operátorov
+
+xradac00: GitLab, grafický návrh, profiling, ovládanie GUI, dokumentácia, manuál
+
+xsnase07: TDD testy, matematická knižnica, mockup, nápoveda, ovládanie GUI, README
  
