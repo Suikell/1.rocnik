@@ -1,3 +1,0 @@
-xcubin00 100 (priorita operátorov, makefile, inštalátor, odinštalátor)
-xradac00 100 (gitlab, grafický návrh, profiling, ovládanie GUI, dokumentácia, manuál)
-xsnase07 100 (TDD testy, matematická knižnica, ovládanie GUI, mockup, nápoveda, ReadMe)
