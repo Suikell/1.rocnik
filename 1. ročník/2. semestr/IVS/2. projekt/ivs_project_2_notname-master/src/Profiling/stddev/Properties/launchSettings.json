@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "stddev": {
+      "commandName": "Project",
+      "commandLineArgs": "< C:\\Users\\Kajush\\Documents\\vysoká\\1BIT\\letny\\IVS\\Projekt_2\\repository\\ivs_project_2_notname\\src\\Profiling\\stddev\\bin\\Debug\\netcoreapp3.1\\cisla.txt",
+      "nativeDebugging": false
+    }
+  }
+}
